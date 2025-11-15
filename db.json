@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Understanding JavaScript Closures",
+      "body": "Closures are functions that have access to variables from another function’s scope. They are useful for data encapsulation and creating private variables."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with React",
+      "body": "React is a popular JavaScript library for building user interfaces. It allows developers to create reusable UI components."
+    },
+    {
+      "id": 3,
+      "title": "CSS Flexbox Guide",
+      "body": "Flexbox is a CSS layout module that helps in designing flexible and responsive layouts. It simplifies aligning and distributing space among items."
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Node.js",
+      "body": "Node.js is a JavaScript runtime built on Chrome’s V8 engine. It allows you to run JavaScript on the server-side to build scalable applications."
+    },
+    {
+      "id": 5,
+      "title": "Mastering Async/Await in JavaScript",
+      "body": "Async/Await is syntactic sugar for handling asynchronous operations in JavaScript, making promises easier to read and manage."
+    }
+  ]
+}
